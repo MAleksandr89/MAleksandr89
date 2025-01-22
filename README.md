@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aleksandr 👋
+Middle Software Engineer > 3 years of commertial experience. I have good knowledge in backend development on Python.
+I also know some about fronted: js, html and etc.
 
-<!--
-**MAleksandr89/MAleksandr89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email:  kurepin.andre@yandex.ru
 
-Here are some ideas to get you started:
+In general worked with monolitic and microservice arthitectures.
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/andrekur/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekur&layout=compact" /></a>
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical stack
+*   Python/JS languages
+*   MySQL, PostgreSQL, MS SQL, MongoDB
+*   Django v.2+, DRF, Celery, AIOHTTP, FastApi, Alembic, Pydantic, SQLAlchemy end other
+*   Docker/GitHub/GitLab/Jnekins
+
+## :sun_with_face: Soft skills
+*   Communication
+*   Teamwork
+*   Adaptability
+*   Time Management
+*   Mentoring and Teaching
