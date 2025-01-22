@@ -21,11 +21,12 @@ In general, worked with single-page applications (SPA) and micro-frontend archit
 *   Docker/Docker Compose
 
 ## :sun_with_face: Soft skills
-*   Communication
-*   Teamwork
-*   Adaptability
-*   Time Management
-*   Mentoring and Teaching
+*   Time management and discipline in task execution.
+*   Proactive approach to work and a focus on continuous improvement.
+*   Creativity and flexibility in solving challenging situations.
+*   Effective communication skills.
+*   Teamwork and collaboration.
+*   Resilience under pressure.
 
 ## :mortar_board: Experience
 * Frontend Development (React, Redux) - 2 years
