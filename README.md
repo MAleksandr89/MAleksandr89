@@ -10,10 +10,12 @@ In general, worked with single-page applications (SPA) and micro-frontend archit
  </p>
 
 ## 🛠 Technical stack
-*   Python/JS languages
-*   MySQL, PostgreSQL, MS SQL, MongoDB
-*   Django v.2+, DRF, Celery, AIOHTTP, FastApi, Alembic, Pydantic, SQLAlchemy end other
-*   Docker/GitHub/GitLab/Jnekins
+*   JavaScript/TypeScript languages
+*   React, Redux, Vue.js, Angular
+*   HTML5, CSS3, SASS/LESS, Tailwind CSS, Bootstrap
+*   Webpack, Vite, Babel
+*   REST API, GraphQL, WebSockets
+*   GitHub/GitLab/Bitbucket, CI/CD tools (e.g., Jenkins, GitHub Actions)
 
 ## :sun_with_face: Soft skills
 *   Communication
