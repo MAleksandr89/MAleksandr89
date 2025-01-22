@@ -28,16 +28,14 @@ In general, worked with single-page applications (SPA) and micro-frontend archit
 *   Mentoring and Teaching
 
 ## :mortar_board: Experience
-* Frontend Development (React, Redux, Vue.js) - 2 years
+* Frontend Development (React, Redux) - 2 years
 
    * Development of user interfaces and interactive components
    * Integration with REST APIs and backend systems
    * Implementation of state management using Redux/Vuex
    * Design and implementation of reusable UI components
    * Bug fixing and code reviews
-   * Development of micro-frontend solutions
-   * Performance optimization for single-page applications (SPA)
-   * Integration with WebSocket and GraphQL APIs
+   * Performance optimization for SPA
    * Collaboration with backend teams to ensure seamless data flow
  
 * HTML/CSS (SASS/LESS, Tailwind CSS, Bootstrap) - 6 months
