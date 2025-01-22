@@ -32,7 +32,7 @@ In general, worked with single-page applications (SPA) and micro-frontend archit
 
    * Development of user interfaces and interactive components
    * Integration with REST APIs and backend systems
-   * Implementation of state management using Redux/Vuex
+   * Implementation of state management using Redux
    * Design and implementation of reusable UI components
    * Bug fixing and code reviews
    * Performance optimization for SPA
