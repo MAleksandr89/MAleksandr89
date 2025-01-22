@@ -1,6 +1,5 @@
 # Hi, I'm Aleksandr 👋
-Middle Software Engineer > 3 years of commertial experience. I have good knowledge in backend development on Python.
-I also know some about fronted: js, html and etc.
+Middle Software Engineer with over 2 years of commercial experience in frontend development. Proficient in JavaScript, HTML, and related technologies. Also have basic knowledge of backend development using Python.
 
 Email:  amakunin@list.ru
 
