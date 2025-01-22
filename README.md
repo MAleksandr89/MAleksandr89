@@ -10,12 +10,15 @@ In general, worked with single-page applications (SPA) and micro-frontend archit
  </p>
 
 ## 🛠 Technical stack
-*   JavaScript/TypeScript languages
-*   React, Redux, Vue.js, Angular
+*   JavaScript/TypeScript
+*   React, Redux
 *   HTML5, CSS3, SASS/LESS, Tailwind CSS, Bootstrap
-*   Webpack, Vite, Babel
+*   Webpack, Vite
 *   REST API, GraphQL, WebSockets
-*   GitHub/GitLab/Bitbucket, CI/CD tools (e.g., Jenkins, GitHub Actions)
+*   GitHub/GitLab, CI/CD tools (e.g., Jenkins, GitHub Actions)
+*   Python/Django
+*   MySQL, PostgreSQL
+*   Docker/Docker Compose
 
 ## :sun_with_face: Soft skills
 *   Communication
