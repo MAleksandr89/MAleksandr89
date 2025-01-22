@@ -6,7 +6,7 @@ Email:  amakunin@list.ru
 
 In general worked with monolitic and microservice arthitectures.
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=MAleksandr89&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=andrekur&show_icons=true&count_private=true" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=MAleksandr89&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=MAleksandr89&show_icons=true&count_private=true" /></a>
 <a href="https://github.com/MAleksandr89/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAleksandr89&layout=compact" /></a>
  </p>
 
